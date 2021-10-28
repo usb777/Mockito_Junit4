@@ -4,5 +4,6 @@ Mockito and Junit4 exploration
 - Testing private and protected methods (Reflect Tools)
 - Testing Models
 - Testing void method
+- Testin Exception
 Start Testing class with ===@RunWith(MockitoJUnitRunner.class)===
 
