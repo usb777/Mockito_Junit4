@@ -6,5 +6,8 @@ Mockito and Junit4 exploration
 - Testing void method
 - Testin Exception
 - Real life samples
+- Stalkers
+
+
 Start Testing class with ===@RunWith(MockitoJUnitRunner.class)===
 
