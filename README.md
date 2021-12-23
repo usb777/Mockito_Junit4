@@ -7,6 +7,7 @@ Mockito and Junit4 exploration
 - Testin Exception
 - Real life samples
 - when return Mockito
+- constructor
 
 
 Start Testing class with ===@RunWith(MockitoJUnitRunner.class)===
